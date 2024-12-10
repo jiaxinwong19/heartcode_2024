@@ -2,7 +2,7 @@
  
 import * as React from "react"
 // import Link from "next/link"
-import { NavigationMenuDemo } from "../components/navbar/navigation-menu"
+import { NavigationMenuDemo } from "./components/navbar/navigation-menu"
 
 
 export default function Home() {
